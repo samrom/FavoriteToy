@@ -1,0 +1,154 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1f624c1d32e2a9b06683678f14ab7337/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sromano/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/feb438c735b30862e4f46a4b66ba1d1b/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a13d9a41433580dd7b9a73f2d2f8825c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0e6f6e91f7148d58c8300def7d556ef5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94b8a91a5902fc1f254289cf062c910e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e4ab48921f1f9e8de70c3ce5acb9fff/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c730451929d42feab6a13b1ab2f80b7c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8f8289de4d2b32d97db4d94058af2f3d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2403e9403bbf8dd14aa991bf82be43ee/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1cd92300fb79dc60a4bf5d35ec28d7bc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7040e63e93532fb59f4dd3a12acff596/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2e27a80c43847c4390f49cf83f8bfa37/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/288c71a8b2f38a481ce66d225a38e458/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/47c7b299a3a05004e72bcff6841598d3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9330d2c74906900f9d4ba185942c72d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/564330665938441a626b8ea9818c5fcf/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66023a04733d3e32382d56918de5c68d/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0c956942cd81a5cb33d0e632d5821a51/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a1b70bdac4e388e29bb6a3c851d92bcf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/908e818079c27e385dd07ef1c263a6e6/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2ff126e6cfaed04363f569f44c8fe0ae/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f97c9e29254d6dd53011251307fcb520/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f667f98667fac1c301ff2860e86bfd0c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/585be40115f1083746841a1889855dc9/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d041b0ba9d52dd064c2b534523de3abd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0045d5de04b8006fed14da1e59042c80/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/98cbe97c9379684a8ba8bc9baf669451/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:3:5-47
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sromano/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/feb438c735b30862e4f46a4b66ba1d1b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sromano/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/feb438c735b30862e4f46a4b66ba1d1b/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/564330665938441a626b8ea9818c5fcf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/564330665938441a626b8ea9818c5fcf/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66023a04733d3e32382d56918de5c68d/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66023a04733d3e32382d56918de5c68d/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/564330665938441a626b8ea9818c5fcf/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.sromano.favoritetoys.MainActivity
+ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1f624c1d32e2a9b06683678f14ab7337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1f624c1d32e2a9b06683678f14ab7337/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sromano/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/feb438c735b30862e4f46a4b66ba1d1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sromano/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/feb438c735b30862e4f46a4b66ba1d1b/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a13d9a41433580dd7b9a73f2d2f8825c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/a13d9a41433580dd7b9a73f2d2f8825c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0e6f6e91f7148d58c8300def7d556ef5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/0e6f6e91f7148d58c8300def7d556ef5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94b8a91a5902fc1f254289cf062c910e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/94b8a91a5902fc1f254289cf062c910e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e4ab48921f1f9e8de70c3ce5acb9fff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/8e4ab48921f1f9e8de70c3ce5acb9fff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c730451929d42feab6a13b1ab2f80b7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/c730451929d42feab6a13b1ab2f80b7c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8f8289de4d2b32d97db4d94058af2f3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/8f8289de4d2b32d97db4d94058af2f3d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2403e9403bbf8dd14aa991bf82be43ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/2403e9403bbf8dd14aa991bf82be43ee/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1cd92300fb79dc60a4bf5d35ec28d7bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/1cd92300fb79dc60a4bf5d35ec28d7bc/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7040e63e93532fb59f4dd3a12acff596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/7040e63e93532fb59f4dd3a12acff596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2e27a80c43847c4390f49cf83f8bfa37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/2e27a80c43847c4390f49cf83f8bfa37/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/288c71a8b2f38a481ce66d225a38e458/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/288c71a8b2f38a481ce66d225a38e458/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/47c7b299a3a05004e72bcff6841598d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/47c7b299a3a05004e72bcff6841598d3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9330d2c74906900f9d4ba185942c72d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/9330d2c74906900f9d4ba185942c72d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/564330665938441a626b8ea9818c5fcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/564330665938441a626b8ea9818c5fcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66023a04733d3e32382d56918de5c68d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/66023a04733d3e32382d56918de5c68d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0c956942cd81a5cb33d0e632d5821a51/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/0c956942cd81a5cb33d0e632d5821a51/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a1b70bdac4e388e29bb6a3c851d92bcf/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/a1b70bdac4e388e29bb6a3c851d92bcf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/908e818079c27e385dd07ef1c263a6e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/908e818079c27e385dd07ef1c263a6e6/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2ff126e6cfaed04363f569f44c8fe0ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/2ff126e6cfaed04363f569f44c8fe0ae/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f97c9e29254d6dd53011251307fcb520/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/f97c9e29254d6dd53011251307fcb520/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f667f98667fac1c301ff2860e86bfd0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/f667f98667fac1c301ff2860e86bfd0c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/585be40115f1083746841a1889855dc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/585be40115f1083746841a1889855dc9/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d041b0ba9d52dd064c2b534523de3abd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/d041b0ba9d52dd064c2b534523de3abd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0045d5de04b8006fed14da1e59042c80/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/sromano/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0045d5de04b8006fed14da1e59042c80/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/98cbe97c9379684a8ba8bc9baf669451/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /Users/sromano/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/98cbe97c9379684a8ba8bc9baf669451/AndroidManifest.xml:20:5-44
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sromano/AndroidStudioProjects/FavoriteToys/app/src/main/AndroidManifest.xml
